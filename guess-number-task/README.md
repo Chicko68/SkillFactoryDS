@@ -5,8 +5,8 @@
 [2. Какой кейс решаем?](https://github.com/Chicko68/my_first_rep/tree/main/project_0/README.md#Какой-кейс-решаем)  
 [3. Краткая информация о данных](https://github.com/Chicko68/my_first_rep/tree/main/project_0/README.md#Краткая-информация-о-данных)  
 [4. Этапы работы над проектом](https://github.com/Chicko68/my_first_rep/tree/main/project_0/README.md#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/Chicko68/my_first_rep/tree/main/project_0/README.md#Результат)
-[6. Выводы](https://github.com/Chicko68/my_first_rep/tree/main/project_0/README.md#Выводы)
+[5. Результат](https://github.com/Chicko68/my_first_rep/tree/main/project_0/README.md#Результат)  
+[6. Выводы](https://github.com/Chicko68/my_first_rep/tree/main/project_0/README.md#Выводы)  
 [7. Ссылка на файл для gitignore](https://docs.google.com/spreadsheets/d/1bvez_io7UHnGOkzKyD-7NJ8RGh3RURO4/edit?usp=drive_link&ouid=117809252430194775080&rtpof=true&sd=true)
 
 
