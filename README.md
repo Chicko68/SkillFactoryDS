@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # SkillFactoryDS
 For SF homeworks
 =======
