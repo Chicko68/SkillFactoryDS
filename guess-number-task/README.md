@@ -7,7 +7,7 @@
 [4. Этапы работы над проектом](https://github.com/Chicko68/my_first_rep/tree/main/project_0/README.md#Этапы-работы-над-проектом)  
 [5. Результат](https://github.com/Chicko68/my_first_rep/tree/main/project_0/README.md#Результат)  
 [6. Выводы](https://github.com/Chicko68/my_first_rep/tree/main/project_0/README.md#Выводы)  
-[7. Ссылка на файл для gitignore](https://docs.google.com/spreadsheets/d/1bvez_io7UHnGOkzKyD-7NJ8RGh3RURO4/edit?usp=drive_link&ouid=117809252430194775080&rtpof=true&sd=true)
+[7. Ссылка на файл для gitignore](https://drive.google.com/file/d/10kIy2TGi2XDJZlGKpzdWhTTv4o55WZfc/view?usp=drive_link)
 
 
 
